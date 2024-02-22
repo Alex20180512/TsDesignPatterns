@@ -1,0 +1,1 @@
+{"v":3,"stories":{"singleton--instance":{"id":"singleton--instance","name":"Instance","title":"Singleton","importPath":"./src/code/Singleton.stories.tsx","tags":["story"],"kind":"Singleton","story":"Instance","parameters":{"__id":"singleton--instance","docsOnly":false,"fileName":"./src/code/Singleton.stories.tsx"}}}}
